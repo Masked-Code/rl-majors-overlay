@@ -1,0 +1,37 @@
+{
+  "dependencies": {
+    "gradient-path": "^2.3.0",
+    "npm-run-all": "^4.1.5",
+    "pnpm": "^7.12.0",
+    "tinygradient": "^1.1.5"
+  },
+  "name": "rlsc-overlay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "dev:all": "run-p -cln start:socket dev:overlay",
+    "prestart:overlay": "cd overlay && npm run build",
+    "prestart:panel": "cd panel && npm run build",
+    "start:overlay": "cd overlay && npm start",
+    "start:panel": "cd panel && npm start",
+    "start:socket": "cd rocketsocket && npm start",
+    "dev:overlay": "cd overlay && npm run dev",
+    "dev:panel": "cd panel && npm run dev",
+    "dev:caster": "cd caster-screen && npm run dev",
+    "prestart:all": "run-p prestart:overlay prestart:panel",
+    "start:all": "run-p -cln start:overlay start:panel start:socket",
+    "installer": "run-s install:overlay install:panel install:socket install:caster",
+    "install:overlay": "cd overlay && npm install",
+    "install:panel": "cd panel && npm install",
+    "install:socket": "cd rocketsocket && npm install",
+    "install:caster": "cd caster-screen && npm install"
+  },
+  "pkg": {
+    "targets": [ "node16-win-x64" ]
+  },
+  "devDependencies": {
+    "svelte-ticker": "^1.0.0"
+  }
+}

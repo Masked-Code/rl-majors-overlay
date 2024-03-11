@@ -1,0 +1,225 @@
+{
+    "teams": {
+        "nemesis":{
+            "name": "nemesis",
+            "logo": "/src/assets/logos/nemesis.png",
+            "video": "/src/assets/Animated_logos/nemesis.mp4",
+            "colors": {
+                "logobox-light": "#192d3d",
+                "logobox-dark": "#080b12",
+                "namebox-light": "#b63124",
+                "namebox-dark": "#511d1a",
+                "scorebox-light": "#ff433d",
+                "scorebox-dark": "#b02610"
+            }
+        },
+        "rlpc": {
+            "name": "rlpc",
+            "logo": "/src/assets/logos/rlpc.png",
+            "video": "/src/assets/Animated_logos/rlpc.mp4",
+            "colors": {
+                "logobox-light": "#192d3d",
+                "logobox-dark": "#080b12",
+                "namebox-light": "#2a5cc9",
+                "namebox-dark": "#062747",
+                "scorebox-light": "#2b98ff",
+                "scorebox-dark": "#173491"
+            }
+        },
+        "tsl": {
+            "name": "tsl",
+            "logo": "/src/assets/logos/tsl.png",
+            "video": "/src/assets/Animated_logos/tsl.mp4",
+            "colors": {
+                "logobox-light": "#192d3d",
+                "logobox-dark": "#080b12",
+                "namebox-light": "#b339ba",
+                "namebox-dark": "#471e4d",
+                "scorebox-light": "#e348ff",
+                "scorebox-dark": "#b439bd"
+            }
+        },
+        "polaris": {
+            "name": "polaris",
+            "logo": "/src/assets/logos/polaris.png",
+            "video": "/src/assets/Animated_logos/polaris.mp4",
+            "colors": {
+                "logobox-light": "#192d3d",
+                "logobox-dark": "#080b12",
+                "namebox-light": "#846ac4",
+                "namebox-dark": "#4a277a",
+                "scorebox-light": "#caadf7",
+                "scorebox-dark": "#7342bf"
+            }
+        },
+        "audacity": {
+            "name": "audacity",
+            "logo": "/src/assets/logos/audacity.png",
+            "video": "/src/assets/Animated_logos/audacity.mp4",
+            "colors": {
+                "logobox-light": "#192d3d",
+                "logobox-dark": "#080b12",                
+                "namebox-light": "#0095b8",
+                "namebox-dark": "#053538",
+                "scorebox-light": "#00e6e5",
+                "scorebox-dark": "#00849c"
+            }
+        },
+        "frontline": {
+            "name": "frontline",
+            "logo": "/src/assets/logos/frontline.png",
+            "video": "/src/assets/Animated_logos/frontline.mp4",
+            "colors": {
+                "logobox-light": "#192d3d",
+                "logobox-dark": "#080b12",
+                "namebox-light": "#420004",
+                "namebox-dark": "#000000",
+                "scorebox-light": "#5e0000",
+                "scorebox-dark": "#420000"
+            }
+        },
+        "outer": {
+            "name": "outer",
+            "logo": "/src/assets/logos/outer.png",
+            "video": "/src/assets/Animated_logos/outer.mp4",
+            "colors": {
+                "logobox-light": "#192d3d",
+                "logobox-dark": "#080b12",
+                "namebox-light": "#4e1897",
+                "namebox-dark": "#1b0f32",
+                "scorebox-light": "#6931e0",
+                "scorebox-dark": "#4a0a91"
+            }
+        },
+        "old farts": {
+            "name": "old farts",
+            "logo": "/src/assets/logos/oldfarts.png",
+            "video": "/src/assets/Animated_logos/oldfarts.mp4",
+            "colors": {
+                "logobox-light": "#192d3d",
+                "logobox-dark": "#080b12",
+                "namebox-light": "#ba8300",
+                "namebox-dark": "#4d3302",
+                "scorebox-light": "#ffa600",
+                "scorebox-dark": "#a67800"
+            }
+        },
+        "Blackline": {
+            "name": "Blackline",
+            "logo": "/src/assets/logos/blcs.png",
+            "video": "/src/assets/Animated_logos/blackline.mp4",
+            "colors": {
+                "logobox-light": "#fdfdfd",
+                "logobox-dark": "#4c96d7",
+                "namebox-light": "#fdfdfd",
+                "namebox-dark": "#4c96d7",
+                "scorebox-light": "#fdfdfd",
+                "scorebox-dark": "#4c96d7"
+            }
+        },
+        "Frost": {
+            "name": "Frost",
+            "logo": "/src/assets/logos/frost.png",
+            "video": "/src/assets/Animated_logos/frost.mp4",
+            "colors": {
+                "logobox-light": "#57d6fc",
+                "logobox-dark": "#000000",
+                "namebox-light": "#57d6fc",
+                "namebox-dark": "#000000",
+                "scorebox-light": "#57d6fc",
+                "scorebox-dark": "#000000"
+            }
+        },
+        "slips": {
+            "name": "slips",
+            "logo": "/src/assets/logos/slip.png",
+            "video": "/src/assets/Animated_logos/slip.mp4",
+            "colors": {
+                "logobox-light": "#ffffff",
+                "logobox-dark": "#E22E51",
+                "namebox-light": "#ffffff",
+                "namebox-dark": "#E22E51",
+                "scorebox-light": "#ffffff",
+                "scorebox-dark": "#E22E51"
+            }
+        },
+        "gynix": {
+            "name": "gynix",
+            "logo": "/src/assets/logos/gynix.png",
+            "video": "/src/assets/Animated_logos/gynix.mp4",
+            "colors": {
+                "logobox-light": "#fefefe",
+                "logobox-dark": "#172c41",
+                "namebox-light": "#fefefe",
+                "namebox-dark": "#172c41",
+                "scorebox-light": "#fefefe",
+                "scorebox-dark": "#172c41"
+            }
+        },
+        "shootout": {
+            "name": "shootout",
+            "logo": "/src/assets/logos/Seasonal_Shootout.png",
+            "video": "/src/assets/Animated_logos/ss.mp4",
+            "colors": {
+                "logobox-light": "#fde936",
+                "logobox-dark": "#000000",
+                "namebox-light": "#fde936",
+                "namebox-dark": "#000000",
+                "scorebox-light": "#fde936",
+                "scorebox-dark": "#000000"
+            }
+        },
+        "url": {
+            "name": "url",
+            "logo": "/src/assets/logos/url.png",
+            "video": "/src/assets/Animated_logos/ultimate.mp4",
+            "colors": {
+                "logobox-light": "#998dff",
+                "logobox-dark": "#000000",
+                "namebox-light": "#998dff",
+                "namebox-dark": "#000000",
+                "scorebox-light": "#998dff",
+                "scorebox-dark": "#000000"
+            }
+        },
+        "mpg": {
+            "name": "mpg",
+            "logo": "/src/assets/logos/mpg.png",
+            "video": "/src/assets/Animated_logos/mpg.mp4",
+            "colors": {
+                "logobox-light": "#EB0C36",
+                "logobox-dark": "#499400",
+                "namebox-light": "#EB0C36",
+                "namebox-dark": "#499400",
+                "scorebox-light": "#EB0C36",
+                "scorebox-dark": "#499400"
+            }
+        },
+        "escape": {
+            "name": "escape",
+            "logo": "/src/assets/logos/escape_velocity.png",
+            "video": "/src/assets/Animated_logos/escape_velocity.mp4",
+            "colors": {
+                "logobox-light": "#ffffff",
+                "logobox-dark": "#000000",
+                "namebox-light": "#ffffff",
+                "namebox-dark": "#000000",
+                "scorebox-light": "#ffffff",
+                "scorebox-dark": "#000000"
+            }
+        },
+        "test": {
+            "name": "",
+            "logo": "/src/assets/logos/test.png",
+            "video": "",
+            "colors": {
+                "logobox-light": "#ffffff",
+                "logobox-dark": "#000000",
+                "namebox-light": "#ffffff",
+                "namebox-dark": "#000000",
+                "scorebox-light": "#ffffff",
+                "scorebox-dark": "#000000"
+            }
+        }
+    }
+}

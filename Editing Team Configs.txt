@@ -1,0 +1,20 @@
+"template": {
+            "name": "",
+            "logo": "/src/assets/logos/",
+            "video": "/src/assets/Animated_logos/",
+            "colors": {
+                "logobox-light": "#192d3d",
+                "logobox-dark": "#080b12",
+                "namebox-light": "#",
+                "namebox-dark": "#",
+                "scorebox-light": "#",
+                "scorebox-dark": "#"
+            }
+        }**Note** if this is not the last team in the file there needs to be a comma after the curly brace. Also applies to above teams
+
+To edit the team configs to add or remove teams simply paste the template into the overlay\src\teamconfig.json file
+
+From there just change the top "template" to the team name and fill in the rest of the fields as they are named
+
+The file in panel\src\ will automatically update the next time the overlay is launched
+
