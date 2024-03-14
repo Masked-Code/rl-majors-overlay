@@ -280,13 +280,13 @@
           href={$panelData?.teamname13 ? teamConfig["teams"][$panelData?.teamname13]["logo"] : "/caster-screen/src/assets/logos/test.png"}
         />
       </g>
-      <g id="Lower_Bracket">
+      <g id="Lower_Division">
         <text
           dominant-baseline="middle"
           text-anchor="middle"
           transform="translate(33 190.14)"
           style="fill: #fff; font-family: BankSansEFCY-MedConObl, Bank Sans EF CY Condensed; font-size: 8px;"
-          >{$panelData?.bracket3 ? `${$panelData?.bracket3} Bracket` : ""}</text
+          >{$panelData?.division3 ? `${$panelData?.division3} Division` : ""}</text
         >
       </g>
       <g id="Grand_Final">
@@ -295,7 +295,7 @@
           text-anchor="middle"
           transform="translate(33 200.26)"
           style="fill: #fff; font-family: BankSansEFCY-MedConObl, Bank Sans EF CY Condensed; font-size: 6px;"
-          >{$panelData?.bracketround3 || ""}</text
+          >{$panelData?.divisionround3 || ""}</text
         >
       </g>
     </g>
@@ -347,13 +347,13 @@
           href={$panelData?.teamname12 ? teamConfig["teams"][$panelData?.teamname12]["logo"] : "/caster-screen/src/assets/logos/test.png"}
         />
       </g>
-      <g id="Lower_Bracket-2">
+      <g id="Lower_Division-2">
         <text
           dominant-baseline="middle"
           text-anchor="middle"
           transform="translate(33 126.82)"
           style="fill: #fff; font-family: BankSansEFCY-MedConObl, Bank Sans EF CY Condensed; font-size: 8px;"
-          >{$panelData?.bracket2 ? `${$panelData?.bracket2} Bracket` : ""}</text
+          >{$panelData?.division2 ? `${$panelData?.division2} Division` : ""}</text
         >
       </g>
       <g id="Grand_Final-2">
@@ -362,7 +362,7 @@
           text-anchor="middle"
           transform="translate(33 135.94)"
           style="fill: #fff; font-family: BankSansEFCY-MedConObl, Bank Sans EF CY Condensed; font-size: 6px;"
-          >{$panelData?.bracketround2 || ""}</text
+          >{$panelData?.divisionround2 || ""}</text
         >
       </g>
     </g>
@@ -414,13 +414,13 @@
           href={$panelData?.teamname11 ? teamConfig["teams"][$panelData?.teamname11]["logo"] : "/caster-screen/src/assets/logos/test.png"}
         />
       </g>
-      <g id="Lower_Bracket-3">
+      <g id="Lower_Division-3">
         <text
           dominant-baseline="middle"
           text-anchor="middle"
           transform="translate(33 59.62)"
           style="fill: #fff; font-family: BankSansEFCY-MedConObl, Bank Sans EF CY Condensed; font-size: 8px;"
-          >{$panelData?.bracket1 ? `${$panelData?.bracket1} Bracket` : ""}</text
+          >{$panelData?.division1 ? `${$panelData?.division1} Division` : ""}</text
         >
       </g>
       <g id="Grand_Final-3">
@@ -429,7 +429,7 @@
           text-anchor="middle"
           transform="translate(33 68.74)"
           style="fill: #fff; font-family: BankSansEFCY-MedConObl, Bank Sans EF CY Condensed; font-size: 6px;"
-          >{$panelData?.bracketround1 || ""}</text
+          >{$panelData?.divisionround1 || ""}</text
         >
       </g>
     </g>
